@@ -1,0 +1,10 @@
+{
+  "name": "vibe-everflow-sync",
+  "version": "1.0.0",
+  "description": "Daily Vibe -> Everflow conversion sync. Reads 4 CSV exports, dedupes against Everflow, distributes spend as payout, writes an Everflow import CSV, and prints a Slack summary.",
+  "author": {
+    "name": "Stef Borghese",
+    "email": "stef.borghese@gmail.com"
+  },
+  "keywords": ["vibe", "everflow", "affiliate", "conversion", "sync", "cpg"]
+}
